@@ -1,0 +1,35 @@
+{
+    "name": "ara/anax",
+    "description": "Modular PHP framework.",
+    "license": "MIT",
+    "authors": [
+            {
+                "name": "Ara Nourbakhsh",
+                "email": "ara.nourbakhsh@gmail.com"
+            }
+    ],
+    "require": {
+        "anax/request": "^1.0",
+        "anax/url": "^1.0",
+        "anax/router": "1.0.*",
+        "anax/response": "^1.0",
+        "anax/view": "^1.0",
+        "anax/session": "^1.0",
+        "anax/configure": "^1.0",
+        "anax/textfilter": "^1.0",
+        "symfony/yaml": "^3.3",
+        "mos/cimage": "^0.7.19",
+        "anax/di": "^1.0",
+        "anax/page": "^1.0",
+        "lrc-se/anax-repository": "^1.1",
+        "anax/database": "^1.1",
+        "ara/comment": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "Ara\\": "src/",
+            "LRC\\": "src/"
+        }
+    }
+}

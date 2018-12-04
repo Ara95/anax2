@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "post_id": 1,
+        "parent_id": 0,
+        "email": "user1@example.com",
+        "created": "2016-07-21 12:00:00",
+        "edited": "2017-07-22 13:05:00",
+        "text": "Jag älskar katter",
+        "upvote": 3,
+        "downvote": 2,
+        "deleted": 0
+    },
+    {
+        "id": 2,
+        "post_id": 1,
+        "parent_id": 0,
+        "email": "user2@example.com",
+        "created": "2015-07-22 12:00:00",
+        "edited": "",
+        "text": "lol",
+        "upvote": 10,
+        "downvote": 0,
+        "deleted": 0
+    },
+    {
+        "id": 3,
+        "post_id": 2,
+        "parent_id": 0,
+        "email": "user1@example.com",
+        "created": "2017-07-21 12:00:00",
+        "edited": "",
+        "text": "Söt hund.",
+        "upvote": 3,
+        "downvote": 2,
+        "deleted": 0
+    },
+    {
+        "id": 4,
+        "post_id": 2,
+        "parent_id": 0,
+        "email": "user1@example.com",
+        "created": "2017-07-21 12:00:00",
+        "edited": "",
+        "text": "Jag har en tax.",
+        "upvote": 3,
+        "downvote": 2,
+        "deleted": 0
+    },
+    {
+        "id": 5,
+        "post_id": 1,
+        "parent_id": 1,
+        "email": "user3@example.com",
+        "created": "2017-09-10 12:00:00",
+        "edited": "2017-09-20 12:00:00",
+        "text": "varför",
+        "upvote": 0,
+        "downvote": 5,
+        "deleted": 0
+    },
+    {
+        "id": 6,
+        "post_id": 2,
+        "parent_id": 4,
+        "email": "user5@example.com",
+        "created": "2017-07-21 12:00:00",
+        "edited": "",
+        "text": "Jag älskar katter",
+        "upvote": 0,
+        "downvote": 0,
+        "deleted": 0
+    },
+    {
+        "id": 7,
+        "post_id": 1,
+        "parent_id": 1,
+        "email": "user2@example.com",
+        "created": "2017-09-01 12:00:00",
+        "edited": "2017-09-19 12:00:00",
+        "text": "ja!",
+        "upvote": 4,
+        "downvote": 1,
+        "deleted": 0
+    },
+    {
+        "id": 8,
+        "post_id": 1,
+        "parent_id": 5,
+        "email": "user1@example.com",
+        "created": "2017-09-16 12:00:00",
+        "edited": "2017-09-20 20:00:00",
+        "text": "Usch.",
+        "upvote": 22,
+        "downvote": 2,
+        "deleted": 0
+    },
+    {
+        "id": 9,
+        "post_id": 1,
+        "parent_id": 2,
+        "email": "user1@example.com",
+        "created": "2017-04-21 12:00:00",
+        "edited": "",
+        "text": "jaså.",
+        "upvote": 3,
+        "downvote": 2,
+        "deleted": 0
+    },
+    {
+        "id": 10,
+        "post_id": 1,
+        "parent_id": 2,
+        "email": "user3@example.com",
+        "created": "2017-08-10 12:00:00",
+        "edited": "",
+        "text": "jepp",
+        "upvote": 0,
+        "downvote": 5,
+        "deleted": 0
+    }
+]
